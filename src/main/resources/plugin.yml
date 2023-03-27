@@ -1,0 +1,4 @@
+name: NotBreak
+version: '${project.version}'
+main: com.kouno.notbreak.NotBreak
+api-version: 1.19
